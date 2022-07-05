@@ -1,0 +1,5 @@
+# ignore .DS_Store files for mac users
+.DS_Store
+
+# ignore vim swap files (just in case)
+*.swp
