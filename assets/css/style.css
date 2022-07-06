@@ -15,7 +15,7 @@ body {
 /* header styling */
 header {
     padding: 20px;
-    min-width: 1050px;
+    min-width: 1420px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
@@ -80,6 +80,7 @@ footer h4 {
 .hero {
     height: 800px;
     width: 100%;
+    min-width: 1420px;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
