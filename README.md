@@ -8,3 +8,6 @@ The main index.html file was edited to include semantic elements which better de
 
 # CSS Modifications
 The style.css file located in ./assets/css was modified to consolidate various stylings into reusable class and section declarations and includes some utility styling options as well. The main section stylings were also modified to behave more appropriately during window resizing in order to avoid overflowing and breaking elements.
+
+## Hosted page:
+is available on github pages at https://helpvisa.github.io/scs_module01_challenge/
